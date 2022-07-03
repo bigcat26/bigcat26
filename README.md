@@ -1,10 +1,10 @@
 
 #### Hello 👏
 
-I’m Bigcat26. Readme is under construction. 🔗 https://github.com/bigcat26
+I’m Bigcat26. 🔗 https://github.com/bigcat26
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1" alt="Rongronggg9's GitHub trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=bigcat26&column=-1" alt="Bigcat26's GitHub trophy">
 </div>
 
 <hr>
