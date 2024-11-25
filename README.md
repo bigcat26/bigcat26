@@ -12,18 +12,19 @@ I am an application development engineer with over 10+ years of experience, spec
 
 I'm proficient in a variety of programming languages and technologies, including:
 
-- **Languages:** C++, C, Python, Kotlin, Java, Golang, SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js)
+- **Languages:** C++, C, Python, Kotlin/Multiplatform, Java, Bash
 - **Operation Systems:** Windows, Linux, MacOS, uCOS/2, FreeRTOS, LiteOS
-- **Embedded:** RV1106, Hi3516D, Hi3518EV, CC3200, ESP32
+- **Embedded:** RV1106, Hi3516D, Hi3518EV, Ingenic T30, CC3200, ESP32, N32G030, STM32F104C8T6
+- **Protocols:** HTTP/HTTPS, RTP, RTMP, TURN, STUN, ICE, MQTT, RDP, gRPC
+- **Encoding:** MSGPACK, JSON, XML, YAML, G711, G726, H264
 - **Frameworks/Libraries:**  GTest/GMock, Buildroot, POCO, WebRTC, JUnit, HomeKit ADK
 - **Databases:**  PostgreSQL, MySQL
 - **Cache:**  Redis
-- **DevOps/Tools:**  Docker, Jenkins, Gitea, GitLab, GitHub Actions, Nginx
+- **DevOps/Tools:**  Docker, Jenkins, Gitea, GitLab, GitHub Actions
 - **Cloud Platforms:**  Aliyun(EC2, OSS), AWS (S3, Lambda, SNS, Lightsail)
-- **Platforms:**  RabbitMQ, MQTT, OpenAI API
-- **Project Management:**  Redmine
+- **Middlewares:**  RabbitMQ, EMQX, Mosquitto, Nginx, Apache
 - **Design/Prototyping:**  Figma
-- **Tools**: VS Code, Android Studio, Visual Studio, Postman
+- **Tools**: VS Code, Android Studio, Visual Studio, Postman, QEMU, GDB, Valgrind
 
 ---
 
