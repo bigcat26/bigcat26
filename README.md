@@ -1,26 +1,29 @@
 
 ## 👏 Hello 
 
-I’m Bigcat26. 🔗 https://github.com/bigcat26
+I’m Bigcat26. 
+
+![https://github.com/bigcat26](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)
+![mailto:bigcat26@gmail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
 I am an application development engineer with over 10+ years of experience, specializing mainly in C++. I also have practical experience in using other programming languages such as Python, Kotlin, Flutter, NodeJS, and Rust. I have a considerable interest in exploring the fields of architecture design, embedded systems, audio and video streaming, RTC, and AI.
 
-<!--
-
-## 🛠️ Technologies & Languages
+## 🛠️ Technical Skills
 
 I'm proficient in a variety of programming languages and technologies, including:
 
-<p align="center">
-</p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
--->
+- **Languages:** C++, C, Python, Kotlin, Java, Golang, SQL (PostgreSQL, MySQL), JavaScript (ES6, Node.js)
+- **Operation Systems:** Windows, Linux, MacOS, uCOS/2, FreeRTOS, LiteOS
+- **Embedded:** RV1106, Hi3516D, Hi3518EV, CC3200, ESP32
+- **Frameworks/Libraries:**  GTest/GMock, Buildroot, POCO, WebRTC, JUnit, HomeKit ADK
+- **Databases:**  PostgreSQL, MySQL
+- **Cache:**  Redis
+- **DevOps/Tools:**  Docker, Jenkins, Gitea, GitLab, GitHub Actions, Nginx
+- **Cloud Platforms:**  Aliyun(EC2, OSS), AWS (S3, Lambda, SNS, Lightsail)
+- **Platforms:**  RabbitMQ, MQTT, OpenAI API
+- **Project Management:**  Redmine
+- **Design/Prototyping:**  Figma
+- **Tools**: VS Code, Android Studio, Visual Studio, Postman
 
 ---
 
@@ -58,8 +61,7 @@ I'm proficient in a variety of programming languages and technologies, including
   <img src="https://github-profile-trophy.vercel.app/?username=bigcat26&column=-1" alt="Bigcat26's GitHub trophy">
 </div>
 
-
-<hr>
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigcat26&layout=compact)
 
