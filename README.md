@@ -17,8 +17,7 @@ I'm proficient in a variety of programming languages and technologies, including
 - **Protocols:** HTTP/HTTPS, RTP, RTMP, TURN, STUN, ICE, MQTT, RDP, ONVIF, mDNS, Protobuf/gRPC, OAuth2, RESTful
 - **Encoding:** MSGPACK, JSON, XML, YAML, G711, G726, AAC, H264, H265
 - **Frameworks/Libraries:**  GTest/GMock, Buildroot, POCO, WebRTC, JUnit, HomeKit ADK, Vue, MFC
-- **Databases:**  PostgreSQL, MySQL
-- **Cache:**  Redis
+- **SQL & NoSQL:**  PostgreSQL, MySQL, Redis
 - **DevOps/Tools:**  Docker, Jenkins, Gitea, GitLab, GitHub Actions
 - **Cloud Platforms:**  Aliyun(EC2, OSS), AWS (S3, Lambda, SNS, Lightsail)
 - **Middlewares:**  RabbitMQ, EMQX, Mosquitto, Nginx, Apache
