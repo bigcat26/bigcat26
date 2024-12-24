@@ -6,8 +6,6 @@ I’m Bigcat26.
 ![https://github.com/bigcat26](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)
 ![mailto:bigcat26@gmail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
-I am an application development engineer with over 10+ years of experience, specializing mainly in C++. I also have practical experience in using other programming languages such as Python, Kotlin, Flutter, NodeJS, and Rust. I have a considerable interest in exploring the fields of architecture design, embedded systems, audio and video streaming, RTC, and AI.
-
 ## 🛠️ Technical Skills
 
 I'm proficient in a variety of programming languages and technologies, including:
