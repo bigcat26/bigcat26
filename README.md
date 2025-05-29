@@ -14,15 +14,15 @@ I'm proficient in a variety of programming languages and technologies, including
 - **Operation Systems:** Windows, Linux, MacOS, uCOS/2, FreeRTOS, LiteOS
 - **Protocols:** HTTP/HTTPS, RTP, RTMP, TURN, STUN, ICE, MQTT, RDP, ONVIF, mDNS, Protobuf/gRPC, OAuth2, RESTful
 - **Encoding:** MSGPACK, JSON, XML, YAML, G711, G726, AAC, H264, H265
-- **Frameworks/Libraries:**  GTest/GMock, Buildroot, POCO, WebRTC, PyTorch, OnnxRuntime, JUnit, HomeKit ADK, Vue, MFC
+- **Frameworks/Libraries:**  GTest/GMock, Buildroot, POCO, WebRTC, PyTorch, OnnxRuntime, SpringBoot, JUnit, HomeKit ADK, Vue, MFC
 - **SQL & NoSQL:**  PostgreSQL, MySQL, Redis
 - **DevOps/Tools:**  Docker, Jenkins, Gitea, GitLab, GitHub Actions
-- **Cloud Platforms:**  Aliyun(EC2, OSS), AWS (S3, Lambda, SNS, Lightsail)
+- **Cloud Platforms:**  Aliyun(EC2, OSS), AWS (IoT Core, S3, Lambda, SNS, Lightsail)
 - **Middlewares:**  RabbitMQ, EMQX, Mosquitto, Nginx, Apache
 - **Embedded:** RV1106, Hi3516D, Hi3518EV, Ingenic T30, CC3200, ESP32, N32G030, STM32F104C8T6
 - **Peripherals:** UART, SPI, ADC, PWM, Watchdog, GPIO, DMA, 
 - **Design/Prototyping:**  Figma
-- **Tools**: VS Code, Android Studio, Visual Studio, Postman, QEMU, GDB, Valgrind, Windbg, Ollama, dify
+- **Tools**: VS Code, Cursor, Android Studio, Visual Studio, Postman, QEMU, GDB, Valgrind, Windbg, Ollama, dify
 
 ---
 
